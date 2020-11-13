@@ -1,3 +1,5 @@
 .pynb_checkpoints/
 inv-limits-venv/
 .invlimit.py.swp
+__pycache__/
+*.mov
