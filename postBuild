@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter nbconvert inv-limits-interface.ipynb --TagRemovePreprocessor.remove_input_tags='{"hide-input"}'
